@@ -16,4 +16,4 @@ configurations using the full power of the Python programming language.
 
 ## Author
 
-Rangel Reale (rangelspam@gmail.com)
+Rangel Reale (rangelreale@gmail.com)

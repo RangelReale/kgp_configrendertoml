@@ -1,2 +1,2 @@
-kubragen>=0.7.17
+kubragen>=0.8.2
 toml>=0.10.2
